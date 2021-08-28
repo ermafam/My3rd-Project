@@ -56,3 +56,10 @@ Download and launch MobaxTerm, create a new SSH session with , ‘ubuntu’ as u
 ![image](https://user-images.githubusercontent.com/84423958/131227586-96f515dc-f8ab-4f69-8035-0202c1b1444b.png)
 
 
+To deploy a simple **To-Do** application that creates To-Do lists like this:
+
+
+
+![image](https://user-images.githubusercontent.com/84423958/131227648-311a9e0e-083f-40ee-9179-49b86f4693e0.png)
+
+
