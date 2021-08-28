@@ -403,6 +403,21 @@ The next piece of our application will be the **MongoDB Database
 
 
 
+## MONGODB DATABASE
+
+MongoDB Database
+
+We need a database where we will store our data. For this we will make use of mLab. **mLab** provides MongoDB database as a service solution **(DBaaS),** so to make life easy, you will need to sign up for a shared clusters free account, which is ideal for our use case. Sign up here https://www.mongodb.com/atlas-signup-from-mlab. Follow the sign up process, select **AWS** as the cloud provider, and choose a region near you.
+
+Complete a get started checklist as shown on the image below
+
+
+
+![image](https://user-images.githubusercontent.com/84423958/131229885-25a5b93b-b355-40c1-bef8-08dc0a9b815a.png)
+
+
+
+
 
 
 
