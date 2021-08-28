@@ -416,6 +416,38 @@ Complete a get started checklist as shown on the image below
 ![image](https://user-images.githubusercontent.com/84423958/131229885-25a5b93b-b355-40c1-bef8-08dc0a9b815a.png)
 
 
+Allow access to the MongoDB database from anywhere (Not secure, but it is ideal for testing)
+
+**IMPORTANT NOTE**
+In the image below, make sure you change the time of deleting the entry from 6 Hours to 1 Week
+
+
+![image](https://user-images.githubusercontent.com/84423958/131229931-a052714f-208d-4afc-a5ae-2b01cb2a532c.png)
+   
+   
+ Create a MongoDB database and collection inside mLab
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/84423958/131230138-485232fc-edc7-474b-ad3b-9359dc15f708.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/84423958/131230148-0ff32969-aad0-464b-b256-e5cb87774239.png)
+
+
+
+In the **index.js** file, we specified **process.env** to access environment variables, but we have not yet created this file. So we need to do that now.
+
+Create a file in your **Todo** directory and name it .**env.
+
+
+
+
+
+   
+   
+
+
+
 
 
 
