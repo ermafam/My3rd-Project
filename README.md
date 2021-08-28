@@ -41,3 +41,18 @@ In order to complete this project you will need an AWS account and a virtual ser
 If you do not have an AWS account – go back to **Project 1 Step 0** to sign in to AWS free tier account and create a new EC2 Instance of t2.nano family with Ubuntu Server 20.04 LTS (HVM) image. Remember, you can have multiple EC2 instances, but make sure you **STOP** the ones you are not working with at the moment to save available free hours.
 
 **Hint #1:** When you create your EC2 Instances, you can add Tag "Name" to it with a value that corresponds to a current project you are working on – it will be reflected in the name of the EC2 Instance. Like this:
+
+
+![image](https://user-images.githubusercontent.com/84423958/131227472-383845d9-91dd-43da-b4c4-ebe5fa042afc.png)
+
+
+**Hint #2 (for Windows users only):** In previous projects we used Putty and Git Bash to connect to our EC2 Instances. For Windows, there is a tool you can use to open multiple tabs of your CLI in a single window.
+
+**MobaXterm** is an advanced multirotocol and multitool terminal for Windows.
+
+Download and launch MobaxTerm, create a new SSH session with , ‘ubuntu’ as username and your private key (.pem file) like this:
+
+
+![image](https://user-images.githubusercontent.com/84423958/131227586-96f515dc-f8ab-4f69-8035-0202c1b1444b.png)
+
+
