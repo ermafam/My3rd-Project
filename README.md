@@ -774,6 +774,18 @@ npm install axios
 
 
 ## FRONTEND CREATION (CONTINUED)
+   
+   
+Go to ‘components’ directory
+   
+```
+cd src/components
+```
+   
+After that open your **ListTodo.js**
+   
+   
+
 
 
 
